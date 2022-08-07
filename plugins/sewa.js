@@ -3,7 +3,13 @@ let handler = async (m) => {
 let sewa = `*────── 「 LIST SEWA 」 ──────*
 
 Hai 👋
-𝐈𝐧𝐢 𝐥𝐢𝐬𝐭 𝐬𝐞𝐰𝐚 𝐤𝐚𝐦𝐢 𝐬𝐢𝐥𝐚𝐡𝐤𝐚𝐧 𝐝𝐢𝐩𝐢𝐥𝐢𝐡
+
+┏━━━•❅•°•❈〔 𝙄𝙣𝙫𝙞𝙩𝙚 𝘽𝙤𝙩 〕
+┣★ミ 𝘾𝙪𝙠𝙪𝙥 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 𝘾𝙝𝙖𝙣𝙚𝙡 
+┣★ミ https://youtube.com/channel/UCjzlh0Uhz8KJYZnZ0BVN35w
+┣★ミ 𝙇𝙖𝙡𝙪 𝘾𝙝𝙖𝙩 𝙣𝙤𝙢𝙤𝙧
+┣★ミ http://wa.me/6283822910734?text=SAYA+SUDAH+SUBSCRIBE
+┗━━━•❅•°•❈
 
 ┏━━━•❅•°•❈〔 𝐋𝐢𝐬𝐭 𝐔𝐩𝐠𝐫𝐚𝐝𝐞 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 〕
 ┣★ミ Premium : 10k/1 Bulan
