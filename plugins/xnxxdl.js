@@ -12,6 +12,7 @@ handler.help = ['xnxxdl *link*']
 handler.tags = ['downloader', 'asupan']
 handler.command = /^xnxxdl$/i
 
-handler.limit = 50
+handler.premium = true
+handler.limit = 10
 
 module.exports = handler
