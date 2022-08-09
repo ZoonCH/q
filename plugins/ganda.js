@@ -43,7 +43,7 @@ handler.help = ['ganda']
 handler.tags = ['owner']
 handler.command = /^(ganda)$/i
 
-handler.owner = true
+handler.premium = true
 
 handler.fail = null
 
