@@ -12,6 +12,7 @@ handler.help = ['xnxxsearch <query>']
 handler.tags = ['asupan']
 handler.command = /^(xnxxsearch)$/i
 
+handler.premium = true
 handler.limit = 6
 
 module.exports = handler
