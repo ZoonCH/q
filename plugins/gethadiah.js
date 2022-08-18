@@ -10,14 +10,13 @@ let getRandom = codeh[Math.floor(Math.random() * codeh.length)]
 conn.reply(m.chat, `
 https://ponselharian.com/Ti9x
 
-Contoh:
+Cara melewati linknya:
 1. Harap klik link tersebut
 2. Lalu scroll sampai paling bawah
 3. Klik tombol *Im not a robot*
 4. Lanjut klik *Click continue here*
-5. Subscribe *Chanel tersebut*
-6. Tutup *google crome*
-7. Tunggu hasilnya akan di proses  🎉
+5. Tutup *google crome*
+6. Tunggu hasilnya akan di proses  🎉
 
 Lalu tunggu beberapa menit
 Proses hadiah limit, money, exp, tabungan.
