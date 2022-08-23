@@ -8,21 +8,21 @@ global.db.data.users[m.sender].lastlink = new Date * 1
 let codeh = ['736390','882910','882010','715611','002819','562622','432282','322929','662522','443321','937100','762837','028393','625529','727638','992719','092739','727269','629461','239210']
 let getRandom = codeh[Math.floor(Math.random() * codeh.length)]
 conn.reply(m.chat, `
-https://ponselharian.com/Ti9x
+https://carapedi.id/Zoon
 
-Cara melewati linknya:
+Contoh:
 1. Harap klik link tersebut
-2. Lalu scroll sampai paling bawah
-3. Klik tombol *Im not a robot*
-4. Lanjut klik *Click continue here*
-5. Tutup *google crome*
+2. Klik tombol *Im not a robot*
+3. Lanjut klik *Click continue here*
+4. Tunggu sebentar lalu klik *Get Link*
+5. Lalu keluar dari *Browser*
 6. Tunggu hasilnya akan di proses  🎉
 
 Lalu tunggu beberapa menit
 Proses hadiah limit, money, exp, tabungan.
 Akan kalian dapatkan..`, m)
 setTimeout(() => {
-      conn.reply(m.chat, `Selamat kamu mendapatkan hadiah 🎉\nMasukan *${usedPrefix}codeshortlink ${getRandom}*\n\n\n*-Owner*\nTerima kasih udah di kasih jajan.. 😅`, m)
+      conn.reply(m.chat, `Selamat kamu mendapatkan hadiah 🎉\nMasukan *${usedPrefix}codeshortlink ${getRandom}*\n\n\n*-Owner*\nSama-Sama...`, m)
 }, 600000)
 } else m.reply(`Kamu sudah mengambil gethadiah\nHarap tunggu ${waktutionskh} lagi`)
 }
